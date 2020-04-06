@@ -219,6 +219,10 @@ figure {
   max-width: 1170px;
   margin: 0 auto; }
 
+.center {
+  text-align: center;
+}
+
 #colorlib-main {
   width: calc(100% - 300px);
   float: right;
